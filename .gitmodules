@@ -1,0 +1,6 @@
+[submodule "Cinequotes-API"]
+	path = Cinequotes-API
+	url = https://github.com/schupak0311/Cinequotes-API.git
+[submodule "Cinequotes-Translate-Worker"]
+	path = Cinequotes-Translate-Worker
+	url = https://github.com/schupak0311/Cinequotes-Translate-Worker.git
